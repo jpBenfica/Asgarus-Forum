@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2021-04-08 02:13+0000\n"
 "POT-Revision-Date: Thu Jul 27 2017 00:27:28 GMT+0200 (Mitteleuropäische "
 "Sommerzeit)\n"
-"PO-Revision-Date: 2021-08-22 02:11+0100\n"
+"PO-Revision-Date: 2021-08-22 12:20+0100\n"
 "Language-Team: jp.jp@sapo.pt\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "MIME-Version: 1.0\n"
@@ -419,7 +419,7 @@ msgstr "Administradores"
 #: includes/forum-memberslist.php:167 includes/forum-profile.php:252
 #: includes/forum-usergroups.php:473 includes/forum-usergroups.php:490
 msgid "Usergroups:"
-msgstr "Grupo de Utilizadores"
+msgstr "Grupo de Utilizadores:"
 
 #: includes/forum-memberslist.php:198
 msgid "No users found!"
@@ -560,7 +560,7 @@ msgstr "Visto há %s atrás"
 #: includes/forum-pagination.php:29
 msgctxt "Last topic"
 msgid "Last"
-msgstr "Último"
+msgstr "Última"
 
 #: includes/forum-pagination.php:101
 msgid "First"
@@ -569,7 +569,7 @@ msgstr "Primeiro"
 #: includes/forum-pagination.php:122
 msgctxt "Last Page"
 msgid "Last"
-msgstr "Último"
+msgstr "Última"
 
 #: includes/forum-permissions.php:576
 msgid "Forum Roles:"
@@ -941,7 +941,7 @@ msgstr ""
 
 #: includes/forum-usergroups.php:649
 msgid "Forum Usergroups:"
-msgstr "Grupo de Utilizadores"
+msgstr "Grupo de Utilizadores:"
 
 #: includes/forum-usergroups.php:703
 msgid "Add to"
@@ -1138,7 +1138,7 @@ msgstr "O tópico será fixo ao fórum atual."
 
 #: includes/forum.php:1617
 msgid "Global Sticky"
-msgstr "Selecione Modo Fixo:"
+msgstr "Selecione Modo Fixo"
 
 #: includes/forum.php:1620
 msgid "The topic will be sticked to all forums."
@@ -1162,7 +1162,7 @@ msgstr "Fechado"
 
 #: includes/forum.php:1713
 msgid "Approve"
-msgstr "Aprovado"
+msgstr "Aprovar"
 
 #: includes/forum.php:1754 admin/tables/admin-ads-table.php:72
 #: admin/tables/admin-usergroups-table.php:80
